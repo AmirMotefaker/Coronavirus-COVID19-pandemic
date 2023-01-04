@@ -1,1 +1,1 @@
-# Coronavirus-COVID19-pandemic
+# Coronavirus disease (COVID-19) pandemic
